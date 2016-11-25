@@ -1,0 +1,6 @@
+G:\VS2015ProgramTest\TestHashSame\TestHashSame\bin\Debug\TestHashSame.exe.config
+G:\VS2015ProgramTest\TestHashSame\TestHashSame\bin\Debug\TestHashSame.exe
+G:\VS2015ProgramTest\TestHashSame\TestHashSame\bin\Debug\TestHashSame.pdb
+G:\VS2015ProgramTest\TestHashSame\TestHashSame\obj\Debug\TestHashSame.csprojResolveAssemblyReference.cache
+G:\VS2015ProgramTest\TestHashSame\TestHashSame\obj\Debug\TestHashSame.exe
+G:\VS2015ProgramTest\TestHashSame\TestHashSame\obj\Debug\TestHashSame.pdb
